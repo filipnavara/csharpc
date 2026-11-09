@@ -7,3 +7,4 @@
 # sample that is not listed and on a listed one that passes: take a sample off when it passes.
 #
 # <sample>  <why>
+# (ci/m6-guarded-comparer: throwaway line so the Bootstrap workflow's paths filter fires)
